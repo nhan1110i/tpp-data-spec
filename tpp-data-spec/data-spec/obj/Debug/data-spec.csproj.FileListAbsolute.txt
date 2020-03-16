@@ -1,0 +1,9 @@
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\bin\Debug\data-spec.exe.config
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\bin\Debug\data-spec.exe
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\bin\Debug\data-spec.pdb
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\obj\Debug\data-spec.csprojAssemblyReference.cache
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\obj\Debug\data_spec.Form1.resources
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\obj\Debug\data_spec.Properties.Resources.resources
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\obj\Debug\data-spec.csproj.GenerateResource.cache
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\obj\Debug\data-spec.exe
+D:\GEM\tpp-data-spec\tpp-data-spec\data-spec\obj\Debug\data-spec.pdb
